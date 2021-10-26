@@ -6,8 +6,6 @@
   <packaging>war</packaging>
   <name>BasicWebApplication</name>
   <description>BasicWebApplication</description>
-  <dependencies>
-  </dependencies>
   <build>
     <plugins>
       <plugin>
